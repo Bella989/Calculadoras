@@ -1,10 +1,8 @@
-// Criando historicos
+// Criando os historicos
 let hisMul = [];
 let hisDiv = [];
 let hisSub = [];
 let hisAdi = [];
-
-//hisMul.forEach(mostrar);
 
 const dividir = () => {
     // Referenciando do HTML
