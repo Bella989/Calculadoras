@@ -7,6 +7,6 @@ Link para a pagina: https://bella989.github.io/Cauceladoras/
 
 
 São esperadas as seguintes melhorias:
--Reajuste de layout.
--Deixar o historico vizivel na pagina.
--Adicionar limitadores para evitar possiveis erros.
+- Reajuste de layout.
+- Deixar o historico vizivel na pagina.
+- Adicionar limitadores para evitar possiveis erros.
